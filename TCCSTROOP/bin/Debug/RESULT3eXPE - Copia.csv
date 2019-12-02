@@ -1,0 +1,109 @@
+ID	PACIENTE	EXPERIMENTADOR	SEXO	DATA	HORA	CONDICAOVERDADEIRA	TEMPOREACAO	CONDICAO	TENTATIVA	RESULTADO
+646	Paciente1	Experimento 1	Feminino	30,11,2019	16:48                                   	Dia	5,181674	congruente                              	1	1
+647	Paciente1	Experimento 1	Feminino	30,11,2019	16:48                                   	Dia	2,199640	congruente                              	2	1
+648	Paciente1	Experimento 1	Feminino	30,11,2019	16:48                                   	Dia	1,909847	congruente                              	3	1
+649	Paciente1	Experimento 1	Feminino	30,11,2019	16:48                                   	Noite	2,196169	congruente                              	4	1
+650	Paciente1	Experimento 1	Feminino	30,11,2019	16:48                                   	Dia	2,145765	congruente                              	5	1
+651	Paciente1	Experimento 1	Feminino	30,11,2019	16:48                                   	Noite	1,932082	congruente                              	6	1
+652	Paciente1	Experimento 1	Feminino	30,11,2019	16:48                                   	Noite	1,882079	congruente                              	7	1
+653	Paciente1	Experimento 1	Feminino	30,11,2019	16:48                                   	Noite	1,832303	congruente                              	8	1
+654	Paciente1	Experimento 1	Feminino	30,11,2019	16:48                                   	Dia	1,743025	congruente                              	9	1
+655	Paciente1	Experimento 1	Feminino	30,11,2019	16:48                                   	Dia	1,954189	congruente                              	10	1
+656	Paciente1	Experimento 1	Feminino	30,11,2019	16:48                                   	Dia	1,902352	congruente                              	11	1
+657	Paciente1	Experimento 1	Feminino	30,11,2019	16:48                                   	Dia	1,825064	congruente                              	12	1
+658	Paciente1	Experimento 1	Feminino	30,11,2019	16:49                                   	Noite	4,352223	incongruente                            	1	1
+659	Paciente1	Experimento 1	Feminino	30,11,2019	16:49                                   	Noite	2,353184	incongruente                            	2	1
+660	Paciente1	Experimento 1	Feminino	30,11,2019	16:49                                   	Noite	1,892862	incongruente                            	3	1
+661	Paciente1	Experimento 1	Feminino	30,11,2019	16:49                                   	Dia	2,158435	incongruente                            	4	1
+662	Paciente1	Experimento 1	Feminino	30,11,2019	16:49                                   	Dia	2,003408	incongruente                            	5	1
+663	Paciente1	Experimento 1	Feminino	30,11,2019	16:49                                   	Dia	1,857541	incongruente                            	6	1
+664	Paciente1	Experimento 1	Feminino	30,11,2019	16:49                                   	Dia	1,895805	incongruente                            	7	1
+665	Paciente1	Experimento 1	Feminino	30,11,2019	16:49                                   	Noite	2,612209	incongruente                            	8	1
+666	Paciente1	Experimento 1	Feminino	30,11,2019	16:49                                   	Dia	2,010972	incongruente                            	9	1
+667	Paciente1	Experimento 1	Feminino	30,11,2019	16:49                                   	Noite	2,107698	incongruente                            	10	1
+668	Paciente1	Experimento 1	Feminino	30,11,2019	16:49                                   	Dia	1,882397	incongruente                            	11	1
+669	Paciente1	Experimento 1	Feminino	30,11,2019	16:49                                   	Dia	2,189519	incongruente                            	12	1
+670	Paciente1	Experimento 1	Feminino	30,11,2019	16:50                                   	Dia*	4,658694	mista                                   	1	1
+671	Paciente1	Experimento 1	Feminino	30,11,2019	16:50                                   	Dia	2,679878	mista                                   	2	1
+672	Paciente1	Experimento 1	Feminino	30,11,2019	16:50                                   	Noite	3,958153	mista                                   	3	1
+673	Paciente1	Experimento 1	Feminino	30,11,2019	16:50                                   	Dia	1,989554	mista                                   	4	1
+674	Paciente1	Experimento 1	Feminino	30,11,2019	16:50                                   	Dia*	3,670549	mista                                   	5	1
+675	Paciente1	Experimento 1	Feminino	30,11,2019	16:50                                   	Noite*	0,600192	mista                                   	6	1
+676	Paciente1	Experimento 1	Feminino	30,11,2019	16:50                                   	Noite	3,355604	mista                                   	7	1
+677	Paciente1	Experimento 1	Feminino	30,11,2019	16:50                                   	Dia*	2,796146	mista                                   	8	1
+678	Paciente1	Experimento 1	Feminino	30,11,2019	16:50                                   	Noite*	2,653877	mista                                   	9	1
+679	Paciente1	Experimento 1	Feminino	30,11,2019	16:50                                   	Noite*	2,170486	mista                                   	10	1
+680	Paciente1	Experimento 1	Feminino	30,11,2019	16:50                                   	Dia*	2,658290	mista                                   	11	1
+681	Paciente1	Experimento 1	Feminino	30,11,2019	16:50                                   	Dia*	2,238784	mista                                   	12	1
+682	Exp	Exp	Feminino	30,11,2019	20:29                                   	Noite	1,293285	congruente                              	1	1
+683	Exp	Exp	Feminino	30,11,2019	20:29                                   	Noite	1,671845	congruente                              	2	1
+684	Exp	Exp	Feminino	30,11,2019	20:29                                   	Noite	1,499415	congruente                              	3	1
+685	Exp	Exp	Feminino	30,11,2019	20:29                                   	Noite	1,667849	congruente                              	4	1
+686	Exp	Exp	Feminino	30,11,2019	20:29                                   	Noite	1,685444	congruente                              	5	1
+687	Exp	Exp	Feminino	30,11,2019	20:29                                   	Dia	1,831116	congruente                              	6	1
+688	Exp	Exp	Feminino	30,11,2019	20:29                                   	Noite	1,780425	congruente                              	7	1
+689	Exp	Exp	Feminino	30,11,2019	20:29                                   	Noite	1,473462	congruente                              	8	1
+690	Exp	Exp	Feminino	30,11,2019	20:29                                   	Noite	1,840535	congruente                              	9	1
+691	Exp	Exp	Feminino	30,11,2019	20:29                                   	Noite	1,683332	congruente                              	10	1
+692	Exp	Exp	Feminino	30,11,2019	20:29                                   	Noite	1,931375	congruente                              	11	1
+693	Exp	Exp	Feminino	30,11,2019	20:29                                   	Dia	1,852248	congruente                              	12	1
+694	Exp	Exp	Feminino	30,11,2019	20:29                                   	Noite	2,593334	incongruente                            	1	1
+695	Exp	Exp	Feminino	30,11,2019	20:30                                   	Dia	2,113653	incongruente                            	2	1
+696	Exp	Exp	Feminino	30,11,2019	20:30                                   	Dia	1,947272	incongruente                            	3	1
+697	Exp	Exp	Feminino	30,11,2019	20:30                                   	Dia	2,029787	incongruente                            	4	1
+698	Exp	Exp	Feminino	30,11,2019	20:30                                   	Noite	1,975834	incongruente                            	5	1
+699	Exp	Exp	Feminino	30,11,2019	20:30                                   	Noite	2,502472	incongruente                            	6	1
+700	Exp	Exp	Feminino	30,11,2019	20:30                                   	Dia	2,343514	incongruente                            	7	1
+701	Exp	Exp	Feminino	30,11,2019	20:30                                   	Dia	2,186721	incongruente                            	8	1
+702	Exp	Exp	Feminino	30,11,2019	20:30                                   	Dia	2,518625	incongruente                            	9	1
+703	Exp	Exp	Feminino	30,11,2019	20:30                                   	Noite	2,230671	incongruente                            	10	1
+704	Exp	Exp	Feminino	30,11,2019	20:30                                   	Dia	2,662043	incongruente                            	11	1
+705	Exp	Exp	Feminino	30,11,2019	20:30                                   	Dia	2,364084	incongruente                            	12	1
+706	Exp	Exp	Feminino	30,11,2019	20:30                                   	Noite*	2,462569	mista                                   	1	1
+707	Exp	Exp	Feminino	30,11,2019	20:30                                   	Noite	2,295694	mista                                   	2	1
+708	Exp	Exp	Feminino	30,11,2019	20:30                                   	Noite*	2,449809	mista                                   	3	1
+709	Exp	Exp	Feminino	30,11,2019	20:30                                   	Dia*	2,022888	mista                                   	4	1
+710	Exp	Exp	Feminino	30,11,2019	20:30                                   	Dia	2,169407	mista                                   	5	1
+711	Exp	Exp	Feminino	30,11,2019	20:30                                   	Noite	1,931660	mista                                   	6	1
+712	Exp	Exp	Feminino	30,11,2019	20:30                                   	Dia*	2,361744	mista                                   	7	1
+713	Exp	Exp	Feminino	30,11,2019	20:30                                   	Dia*	2,137624	mista                                   	8	1
+714	Exp	Exp	Feminino	30,11,2019	20:30                                   	Dia	2,303288	mista                                   	9	1
+715	Exp	Exp	Feminino	30,11,2019	20:30                                   	Dia*	2,447562	mista                                   	10	1
+716	Exp	Exp	Feminino	30,11,2019	20:31                                   	Dia*	2,332680	mista                                   	11	1
+717	Exp	Exp	Feminino	30,11,2019	20:31                                   	Noite	2,611088	mista                                   	12	1
+718	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Dia	3,623516	congruente                              	1	1
+719	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Noite	3,956938	congruente                              	2	1
+720	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Noite	1,923393	congruente                              	3	1
+721	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Dia	1,987354	congruente                              	4	1
+722	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Noite	1,566406	congruente                              	5	1
+723	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Dia	2,059486	congruente                              	6	1
+724	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Noite	1,851535	congruente                              	7	1
+725	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Noite	2,630764	congruente                              	8	0
+726	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Dia	2,327851	congruente                              	9	1
+727	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Noite	1,914434	congruente                              	10	1
+728	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Dia	2,965521	congruente                              	11	1
+729	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Noite	2,738438	congruente                              	12	1
+730	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Dia	3,697475	incongruente                            	1	1
+731	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Noite	2,657553	incongruente                            	2	1
+732	exp2pac	exp2	Masculino	30,11,2019	20:43                                   	Dia	3,050398	incongruente                            	3	1
+733	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Dia	2,404841	incongruente                            	4	1
+734	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Dia	2,546037	incongruente                            	5	1
+735	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Dia	2,386891	incongruente                            	6	1
+736	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Noite	2,679491	incongruente                            	7	1
+737	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Dia	2,659651	incongruente                            	8	1
+738	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Dia	2,043503	incongruente                            	9	1
+739	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Dia	2,588442	incongruente                            	10	1
+740	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Noite	2,076525	incongruente                            	11	1
+741	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Noite	2,372552	incongruente                            	12	1
+742	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Dia*	4,484816	mista                                   	1	1
+743	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Dia*	2,273168	mista                                   	2	1
+744	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Noite*	4,111316	mista                                   	3	1
+745	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Dia	3,259750	mista                                   	4	1
+746	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Dia	1,814733	mista                                   	5	1
+747	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Noite*	1,924012	mista                                   	6	1
+748	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Dia*	1,869835	mista                                   	7	1
+749	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Noite*	1,763694	mista                                   	8	1
+750	exp2pac	exp2	Masculino	30,11,2019	20:44                                   	Noite*	1,927508	mista                                   	9	1
+751	exp2pac	exp2	Masculino	30,11,2019	20:45                                   	Dia*	1,567823	mista                                   	10	1
+752	exp2pac	exp2	Masculino	30,11,2019	20:45                                   	Dia	1,369058	mista                                   	11	1
+753	exp2pac	exp2	Masculino	30,11,2019	20:45                                   	Dia*	2,137721	mista                                   	12	0
